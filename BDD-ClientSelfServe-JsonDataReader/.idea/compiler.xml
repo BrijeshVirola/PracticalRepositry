@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="BDD-CreateLabels-SharingTestContext" />
+        <module name="BDD-CreateLabels" />
+        <module name="BDD-CreateLabels-ConfigFileReader" />
+        <module name="BDD-ClientSelfServe-JsonDataReader" />
+        <module name="BDD-CreateLabels-PageObjectManger" />
+        <module name="BDD-CreateLabels-Hooks" />
+        <module name="BDD-CreateLabels-FileReaderManager" />
+        <module name="BDD-CreateLabels-LoginJSON" />
+        <module name="BDD-CreateLabels-WebDriverManager" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

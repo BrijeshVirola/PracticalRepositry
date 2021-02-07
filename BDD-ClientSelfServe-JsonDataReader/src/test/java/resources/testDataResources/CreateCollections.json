@@ -1,0 +1,17 @@
+{
+  "username": "labels01",
+  "password": "!PasswordSit",
+  "NumberOfItems": "5",
+  "CustomerName": "White",
+  "AddressLineOne": "15 Autumn Place",
+  "AddressLineTwo": "Hyde Park",
+  "Postcode": "LS6 1RJ",
+  "Town/City": "Leeds",
+  "County": "West Yorkshire",
+  "CustomerPhoneNo": "07388055598",
+  "CustomerEmailAddress": "brijeshvirola@gmail.com",
+  "CustomerReferenceNo": "098765",
+  "ExtraCollectionNotes": "Extra Collection Notes",
+  "SpecialInstructions": "Special Instruction"
+
+}
